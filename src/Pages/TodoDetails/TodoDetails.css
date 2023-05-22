@@ -1,0 +1,28 @@
+
+  .homeStyle {
+    text-align: center;
+  }
+  
+  .link-back {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 8px 16px;
+    background-color: #7663e1;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .link-back:hover {
+    background-color: #5c52b5;
+    color: white;
+  }
+  
+  .shadow-box {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #fff;
+  }
+  

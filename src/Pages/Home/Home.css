@@ -1,0 +1,24 @@
+.homeStyle {
+    height: 650px;
+    background-image: url('../../Assests//Images/background.png');
+    background-size: 680px;
+    background-repeat: no-repeat;
+    background-position-x: 100%;
+    margin-top: -80px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding-left: 100px;
+}
+
+.homeStyle>h1{
+    color: #7663E1;
+    font-size: 70px;
+    font-weight: bolder;
+}
+.homeStyle>h5{
+    color: gray;
+    margin: 12px !important;
+}
